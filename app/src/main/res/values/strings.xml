@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NativeAndroidApiApp</string>
+    <string name="pic_description">Thumbnail picture</string>
+
+    <string name="descCategory1"><i><u>System requirements</u></i></string>
+
+    <string name="paramOs"><b>OS:</b></string>
+    <string name="paramProcessor"><b>Processor:</b></string>
+    <string name="paramMemory"><b>Memory:</b></string>
+    <string name="paramGraphics"><b>Graphics:</b></string>
+    <string name="paramStorage"><b>Storage:</b></string>
+</resources>
